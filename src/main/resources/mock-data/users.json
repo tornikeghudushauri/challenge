@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "about_me": "About me 1",
+      "accept_rate": 80,
+      "account_id": 1,
+      "age": 25,
+      "answer_count": 10,
+      "badge_counts": {
+        "bronze": 100,
+        "silver": 50,
+        "gold": 10
+      },
+      "collectives": [
+        {
+          "collective": {
+            "tags": ["java", "spring-boot", "kotlin"]
+          }
+        }
+      ],
+      "creation_date": 1609459200,
+      "display_name": "User 1",
+      "down_vote_count": 5,
+      "is_employee": false,
+      "last_access_date": 1620182400,
+      "last_modified_date": null,
+      "link": "https://stackoverflow.com/users/1/user-1",
+      "location": "Romania",
+      "profile_image": "https://i.stack.imgur.com/user1.jpg",
+      "question_count": 5,
+      "reputation": 250,
+      "reputation_change_day": 5,
+      "reputation_change_month": 50,
+      "reputation_change_quarter": 100,
+      "reputation_change_week": 10,
+      "reputation_change_year": 200,
+      "timed_penalty_date": null,
+      "up_vote_count": 15,
+      "user_id": 1,
+      "user_type": "registered",
+      "view_count": 100,
+      "website_url": null
+    },
+    {
+      "about_me": "About me 2",
+      "accept_rate": 90,
+      "account_id": 2,
+      "age": 30,
+      "answer_count": 5,
+      "badge_counts": {
+        "bronze": 50,
+        "silver": 20,
+        "gold": 5
+      },
+      "collectives": [
+        {
+          "collective": {
+            "tags": ["java", "spring", "hadoop"]
+          }
+        }
+      ],
+      "creation_date": 1612137600,
+      "display_name": "User 2",
+      "down_vote_count": 10,
+      "is_employee": true,
+      "last_access_date": 1620182400,
+      "last_modified_date": null,
+      "link": "https://stackoverflow.com/users/2/user-2",
+      "location": "Moldova",
+      "profile_image": "https://i.stack.imgur.com/user2.jpg",
+      "question_count": 8,
+      "reputation": 300,
+      "reputation_change_day": 10,
+      "reputation_change_month": 60,
+      "reputation_change_quarter": 120,
+      "reputation_change_week": 15,
+      "reputation_change_year": 250,
+      "timed_penalty_date": null,
+      "up_vote_count": 20,
+      "user_id": 2,
+      "user_type": "registered",
+      "view_count": 150,
+      "website_url": null
+    },
+    {
+      "about_me": "About me 3",
+      "accept_rate": 75,
+      "account_id": 10,
+      "age": 28,
+      "answer_count": 0,
+      "badge_counts": {
+        "bronze": 10,
+        "silver": 5,
+        "gold": 1
+      },
+      "collectives": [
+        {
+          "collective": {
+            "tags": ["ruby", "rails"]
+          }
+        }
+      ],
+      "creation_date": 1614556800,
+      "display_name": "User 3",
+      "down_vote_count": 2,
+      "is_employee": false,
+      "last_access_date": 1620182400,
+      "last_modified_date": null,
+      "link": "https://stackoverflow.com/users/10/user-10",
+      "location": "Moldova",
+      "profile_image": "https://i.stack.imgur.com/user10.jpg",
+      "question_count": 0,
+      "reputation": 50,
+      "reputation_change_day": 1,
+      "reputation_change_month": 10,
+      "reputation_change_quarter": 20,
+      "reputation_change_week": 2,
+      "reputation_change_year": 40,
+      "timed_penalty_date": null,
+      "up_vote_count": 8,
+      "user_id": 10,
+      "user_type": "registered",
+      "view_count": 50,
+      "website_url": null
+    }
+  ]
+}
